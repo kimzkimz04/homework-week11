@@ -1,4 +1,1 @@
-# kimtofriend
-# kimtofriend
-# kimkium
 # kimkium
