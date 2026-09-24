@@ -1,1 +1,1 @@
-print("bykim jijijijlbbblllllll")
+print("bykim jijjjjjj")
